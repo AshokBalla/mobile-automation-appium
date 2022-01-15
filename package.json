@@ -1,0 +1,19 @@
+{
+  "name": "appium-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interview-friendly Appium framework with reusable mobile automation utilities.",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test tests/**/*.test.cjs",
+    "test:e2e:android": "wdio run config/android.conf.js",
+    "test:e2e:ios": "wdio run config/ios.conf.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webdriverio": "^9.0.0",
+    "@wdio/cli": "^9.0.0",
+    "appium": "^2.0.0"
+  }
+}
