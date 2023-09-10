@@ -1,0 +1,162 @@
+# Maintenance Log
+
+- Initial framework setup for appium-tests
+- Add baseline documentation and repository hygiene for appium-tests
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
+- test(appium-tests): add smoke coverage for android login happy path
+- test(appium-tests): expand regression suite for ios login happy path
+- feat(appium-tests): add reusable workflow support for offline banner handling
+- docs(appium-tests): document execution behavior for session recovery after background
+- chore(appium-tests): extend environment controls for permission prompt recovery
+- ci(appium-tests): publish diagnostics for search and filter flow
+- refactor(appium-tests): refresh reusable data for profile update validation
+- chore(appium-tests): record maintenance update for network retry on flaky response
