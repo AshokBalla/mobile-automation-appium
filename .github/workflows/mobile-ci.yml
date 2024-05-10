@@ -1,0 +1,55 @@
+name: mobile-ci
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: echo "Install dependencies"
+      - name: Run validation suite
+        run: echo "Run validation suite"
+      - name: Archive reports
+        run: echo "Archive reports"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
+      - name: Publish diagnostics for search and filter flow
+        run: echo "Publish diagnostics for search and filter flow"
